@@ -5,7 +5,8 @@ body, html {
     
 .bg {
     /* The image used */
-    background-image: url("../images/khotang.jpg");
+    /* background-image: url("../images/khotang.jpg"); */
+    background-color: papayawhip;
     
     /* Full height */
     height: 100%; 
