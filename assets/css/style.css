@@ -1,39 +1,41 @@
-body, html {
-    height: 100%;
-    margin: 0;
+body,
+html {
+  height: 100%;
+  margin: 0;
 }
-    
+
 .bg {
-    /* The image used */
-    /* background-image: url("../images/khotang.jpg"); */
-    background-color: papayawhip;
-    
-    /* Full height */
-    height: 100%; 
-    
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  /* The image used */
+  /* background-image: url("../images/khotang.jpg"); */
+  /* papayawhip */
+  background-color: #354755;
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-#website-content{
-    position: relative;
-    top: 30%;
-    color: #354755;
+#website-content {
+  position: relative;
+  top: 30%;
+  color: papayawhip;
 }
 
-.heading{
-    font-size: 6em;
+.heading {
+  font-size: 6em;
 }
 
-a{
-    background: transparent !important;
-    cursor: pointer;
-    color: #354755;
+a {
+  background: transparent !important;
+  cursor: pointer;
+  color: papayawhip;
 }
 
-a:hover{
-    color: #4d606f !important;
-    text-decoration: none !important;
+a:hover {
+  color: rgb(151, 149, 145) !important;
+  text-decoration: none !important;
 }
